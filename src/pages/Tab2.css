@@ -1,0 +1,7 @@
+ion-accordion ion-item {
+  --padding-start: 20px;
+}
+
+.conteudo-accordion {
+  padding: 10px 20px;
+}
